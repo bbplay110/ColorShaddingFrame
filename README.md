@@ -1,7 +1,7 @@
 
 # ColorShadingFrame
 
-![MainTitleImage](https://imgur.com/a/gPRfQU7)
+![MainTitleImage](README_Images/framework_English.png)
 
 A combine of [ShadeSketch](https://github.com/qyzdao/ShadeSketch "ShadeSketch"), [SketchKeras](https://github.com/lllyasviel/sketchKeras "SketchKeras"), and [PaintingLight](https://github.com/lllyasviel/PaintingLight "PaingLight") to deal a proroblem that ShadeSketch can't deal with colored Image.
 
@@ -33,9 +33,9 @@ All you need is in requirements.txt, use windows and conda to built enviroment, 
 ## Demo
 || input | output |
 |-------|-------|--------|
-|1      | ![image](https://imgur.com/oZhj0X3)     | ![image](https://imgur.com/JZUBqPF)      |
-|2      | ![image](https://imgur.com/8DumCUH)     | ![image](https://imgur.com/3LTvytZ)      |
-|3      | ![image](https://imgur.com/1nukaxt)     | ![image](https://imgur.com/7lqXkMA)     |
+|1      | ![image](README_Images/Demo_1_input.jpg)     | ![image](README_Images/Demo_1_output.jpg)      |
+|2      | ![image](README_Images/Demo_2_input.jpg)     | ![image](README_Images/Demo_2_output.jpg)      |
+|3      | ![image](README_Images/Demo_3_input.png)     | ![image](README_Images/Demo_3_output.png)     |
 
 Art by:[Me](https://www.pixiv.net/users/7486645 "Me") (Yes, I can draw, and I want you to see my drawings, so that there will be no copyright problems...... right?)
 
