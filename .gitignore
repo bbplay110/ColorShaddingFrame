@@ -154,6 +154,8 @@ cython_debug/
 
 #Custom Option
 models/*
+test_input/*
+test_output/*
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
